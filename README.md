@@ -72,7 +72,7 @@ Railway MySQL service → "Query" tab:
 
 ### Step 7 — Live link lo
 Railway → tumhara app → "Settings" → "Domains" → public link milega!
-Example: https://roadking-production.up.railway.app
+Example: https://roadking-one.vercel.app/
 
 ---
 
